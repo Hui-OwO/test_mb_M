@@ -9,6 +9,6 @@
 .suB_m.mm-listview > .mm-listitem::after { inset-inline-start: 10px;}
 
 .download { width: 90%; border: none; margin: 20px auto; }
-.pdfDownload {padding: 30px 0; background: #ffcc00; display: flex; justify-content: center; border: none; font-size: 18px; font-weight: 700; }
+.pdfDownload {padding: 25px 0; background: #ffcc00; display: flex; justify-content: center; border: none; font-size: 18px; font-weight: 700; border-radius: 20px;}
 .download.mm-listitem::after { border-bottom: none; display: none; position: none;}
 /* content: ""; border-color: inherit; border-bottom-width: 1px; border-bottom-style: solid; display: block; position: absolute; inset-inline-start: 20px; inset-inline-end: 20px; bottom: 0 */
