@@ -1,3 +1,6 @@
+@charset "UTF-8";
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css"); 
+* { font-family: 'Pretendard'}
 :root { --color-primary: #5888aa; --color-callout: #fad188; --color-text: #fff; --color-dark-bg: #2a6787; --color-dark-border: #2a6787; --color-light-bg: rgb(255 255 255 / 15%); --color-light-border: rgb(255 255 255 / 60%); --color-gold: #ffda71; --color-silver: #ced0ca; --color-bronze: #bba6a2; --section-padding: clamp(85px, 15vw, 150px); --container-padding: clamp(15px, 4vw, 30px); }
 .high-contrast { --color-primary: #265d79; --color-callout: #fff; --color-dark-bg: #22526c; --color-dark-border: #22526c; --color-light-bg: #fff; --color-light-border: #fff; }
 *, *:before, *:after { -webkit-box-sizing: border-box; box-sizing: border-box; }
