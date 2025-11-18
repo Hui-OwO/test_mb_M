@@ -6,7 +6,7 @@
 *, *:before, *:after { -webkit-box-sizing: border-box; box-sizing: border-box; }
 html, body, [id] { scroll-margin-top: 50px; }
 html, body { padding: 0; margin: 0; }
-body { min-height: 100vh; font-family: Arial, sans-serif; font-size: 16px; line-height: 22px; color: #666; background-color: #fff; -webkit-text-size-adjust: none; }
+body { min-height: 100vh; font-size: 18px; line-height: 22px; color: #666; background-color: #fff; -webkit-text-size-adjust: none; }
 h1, h2, h3, h4, h5, h6 { font-size: 130%; }
 a { color: inherit; text-decoration: underline; }
 body { --mm-min-size: 190px; }
